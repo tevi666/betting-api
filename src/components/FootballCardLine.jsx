@@ -5,7 +5,7 @@ import '../App.css'
 const FootballCardLine = ({ footballs, loading }) => {
 	if (loading) {
 		return (
-			<div className='text-center h-[555px] pt-[200px]'>
+			<div className='text-center h-[587	px] pt-[200px]'>
 				<div className='lds-circle'>
 					<div></div>
 				</div>
